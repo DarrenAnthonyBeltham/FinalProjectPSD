@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="6ccb4093d1a04c19a9ad96dd680f489c" Name="Diagram1">
+        <EntityTypeShape EntityType="MakeUpzzModel.Cart" Width="1.5" PointX="5.25" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="MakeUpzzModel.MakeupBrand" Width="1.5" PointX="0.75" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="MakeUpzzModel.Makeup" Width="1.5" PointX="3" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="MakeUpzzModel.MakeupType" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="MakeUpzzModel.TransactionDetail" Width="1.5" PointX="5.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MakeUpzzModel.TransactionHeader" Width="1.5" PointX="3" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="MakeUpzzModel.User" Width="1.5" PointX="0.75" PointY="7.625" IsExpanded="true" />
+        <AssociationConnector Association="MakeUpzzModel.FK_Carts_Makeups" ManuallyRouted="false" />
+        <AssociationConnector Association="MakeUpzzModel.FK_Carts_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="MakeUpzzModel.FK_Makeups_MakeupBrand" ManuallyRouted="false" />
+        <AssociationConnector Association="MakeUpzzModel.FK_Makeups_MakeupType" ManuallyRouted="false" />
+        <AssociationConnector Association="MakeUpzzModel.FK_TransactionDetails_MakeUps" ManuallyRouted="false" />
+        <AssociationConnector Association="MakeUpzzModel.FK_TransactionDetails_TransactionHeaders" ManuallyRouted="false" />
+        <AssociationConnector Association="MakeUpzzModel.FK_TransactionHeaders_UserID" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
