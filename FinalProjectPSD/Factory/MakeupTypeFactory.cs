@@ -8,7 +8,7 @@ namespace FinalProjectPSD.Factory
 {
     public class MakeupTypeFactory
     {
-        public static MakeupType create(int id, String name)
+        public static MakeupType create(int id, string name)
         {
             MakeupType makeuptype = new MakeupType()
             {

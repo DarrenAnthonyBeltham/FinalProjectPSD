@@ -8,7 +8,7 @@ namespace FinalProjectPSD.Factory
 {
     public class MakeupFactory
     {
-        public static Makeup create(int id, String name, int price, int weight, int typeid, int brandid)
+        public static Makeup create(int id, string name, int price, int weight, int typeid, int brandid)
         {
             Makeup makeup = new Makeup()
             {
