@@ -15,9 +15,9 @@ namespace FinalProjectPSD.Model
     public partial class Cart
     {
         public int CartID { get; set; }
-        public Nullable<int> UserID { get; set; }
-        public Nullable<int> MakeupID { get; set; }
-        public Nullable<int> Quantity { get; set; }
+        public int UserID { get; set; }
+        public int MakeupID { get; set; }
+        public int Quantity { get; set; }
     
         public virtual Makeup Makeup { get; set; }
         public virtual User User { get; set; }

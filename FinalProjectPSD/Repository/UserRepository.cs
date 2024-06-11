@@ -27,5 +27,10 @@ namespace FinalProjectPSD.Repository
         {
             return (from x in db.Users where x.UserRole.Equals("Customer") select x).ToList();
         }
+
+        public int getIDFromUsername(string username)
+        {
+            return (from x in db.Users where x.Username == username select x.UserID).FirstOrDefault();
+        }
     }
 }

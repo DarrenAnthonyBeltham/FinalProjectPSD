@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\user\\Documents\\Github\\FinalProjectPSD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|D:\\user\\Documents\\Github\\FinalProjectPSD\\finalprojectpsd\\view\\customer\\ordermakeup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\view\\customer\\ordermakeup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|D:\\user\\Documents\\Github\\FinalProjectPSD\\finalprojectpsd\\view\\customer\\ordermakeup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\view\\customer\\ordermakeup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|D:\\user\\Documents\\Github\\FinalProjectPSD\\finalprojectpsd\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|D:\\user\\Documents\\Github\\FinalProjectPSD\\finalprojectpsd\\repository\\makeuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\repository\\makeuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|d:\\user\\documents\\github\\finalprojectpsd\\finalprojectpsd\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|D:\\user\\Documents\\Github\\FinalProjectPSD\\finalprojectpsd\\factory\\transactiondetailfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\factory\\transactiondetailfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|D:\\user\\Documents\\Github\\FinalProjectPSD\\finalprojectpsd\\factory\\transactionheaderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\factory\\transactionheaderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|D:\\user\\Documents\\Github\\FinalProjectPSD\\finalprojectpsd\\repository\\transactionheaderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\repository\\transactionheaderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|D:\\user\\Documents\\Github\\FinalProjectPSD\\finalprojectpsd\\repository\\datasingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\repository\\datasingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|D:\\user\\Documents\\Github\\FinalProjectPSD\\finalprojectpsd\\repository\\transactiondetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\repository\\transactiondetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|D:\\user\\Documents\\Github\\FinalProjectPSD\\finalprojectpsd\\view\\customer\\customernavbar.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\view\\customer\\customernavbar.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|D:\\user\\Documents\\Github\\FinalProjectPSD\\finalprojectpsd\\factory\\makeupfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\factory\\makeupfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|D:\\user\\Documents\\Github\\FinalProjectPSD\\finalprojectpsd\\factory\\makeuptypefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\factory\\makeuptypefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|D:\\user\\Documents\\Github\\FinalProjectPSD\\finalprojectpsd\\factory\\makeupbrandfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\factory\\makeupbrandfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|D:\\user\\Documents\\Github\\FinalProjectPSD\\finalprojectpsd\\repository\\makeuptyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\repository\\makeuptyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|D:\\user\\Documents\\Github\\FinalProjectPSD\\finalprojectpsd\\repository\\makeupbrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\repository\\makeupbrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|D:\\user\\Documents\\Github\\FinalProjectPSD\\finalprojectpsd\\view\\admin\\viewcustomer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\view\\admin\\viewcustomer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|D:\\user\\Documents\\Github\\FinalProjectPSD\\finalprojectpsd\\view\\admin\\viewcustomer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\view\\admin\\viewcustomer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|D:\\user\\Documents\\Github\\FinalProjectPSD\\finalprojectpsd\\view\\customer\\customernavbar.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\view\\customer\\customernavbar.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataSingleton.cs",
+              "DocumentMoniker": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Repository\\DataSingleton.cs",
+              "RelativeDocumentMoniker": "FinalProjectPSD\\Repository\\DataSingleton.cs",
+              "ToolTip": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Repository\\DataSingleton.cs",
+              "RelativeToolTip": "FinalProjectPSD\\Repository\\DataSingleton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:32:18.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Repository\\CartRepository.cs",
+              "RelativeDocumentMoniker": "FinalProjectPSD\\Repository\\CartRepository.cs",
+              "ToolTip": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Repository\\CartRepository.cs",
+              "RelativeToolTip": "FinalProjectPSD\\Repository\\CartRepository.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAMwFgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:06:14.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderMakeup.aspx",
+              "DocumentMoniker": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\View\\Customer\\OrderMakeup.aspx",
+              "RelativeDocumentMoniker": "FinalProjectPSD\\View\\Customer\\OrderMakeup.aspx",
+              "ToolTip": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\View\\Customer\\OrderMakeup.aspx",
+              "RelativeToolTip": "FinalProjectPSD\\View\\Customer\\OrderMakeup.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-11T06:36:06.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderMakeup.aspx.cs",
+              "DocumentMoniker": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\View\\Customer\\OrderMakeup.aspx.cs",
+              "RelativeDocumentMoniker": "FinalProjectPSD\\View\\Customer\\OrderMakeup.aspx.cs",
+              "ToolTip": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\View\\Customer\\OrderMakeup.aspx.cs",
+              "RelativeToolTip": "FinalProjectPSD\\View\\Customer\\OrderMakeup.aspx.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAIwFEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:38:49.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MakeupRepository.cs",
+              "DocumentMoniker": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Repository\\MakeupRepository.cs",
+              "RelativeDocumentMoniker": "FinalProjectPSD\\Repository\\MakeupRepository.cs",
+              "ToolTip": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Repository\\MakeupRepository.cs",
+              "RelativeToolTip": "FinalProjectPSD\\Repository\\MakeupRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:32:18.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "FinalProjectPSD\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "FinalProjectPSD\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:32:18.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransactionHeaderFactory.cs",
+              "DocumentMoniker": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Factory\\TransactionHeaderFactory.cs",
+              "RelativeDocumentMoniker": "FinalProjectPSD\\Factory\\TransactionHeaderFactory.cs",
+              "ToolTip": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Factory\\TransactionHeaderFactory.cs",
+              "RelativeToolTip": "FinalProjectPSD\\Factory\\TransactionHeaderFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:35:07.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionHeaderRepository.cs",
+              "DocumentMoniker": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Repository\\TransactionHeaderRepository.cs",
+              "RelativeDocumentMoniker": "FinalProjectPSD\\Repository\\TransactionHeaderRepository.cs",
+              "ToolTip": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Repository\\TransactionHeaderRepository.cs",
+              "RelativeToolTip": "FinalProjectPSD\\Repository\\TransactionHeaderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:40:58.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionDetailFactory.cs",
+              "DocumentMoniker": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Factory\\TransactionDetailFactory.cs",
+              "RelativeDocumentMoniker": "FinalProjectPSD\\Factory\\TransactionDetailFactory.cs",
+              "ToolTip": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Factory\\TransactionDetailFactory.cs",
+              "RelativeToolTip": "FinalProjectPSD\\Factory\\TransactionDetailFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:45:42.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TransactionDetailRepository.cs",
+              "DocumentMoniker": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Repository\\TransactionDetailRepository.cs",
+              "RelativeDocumentMoniker": "FinalProjectPSD\\Repository\\TransactionDetailRepository.cs",
+              "ToolTip": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Repository\\TransactionDetailRepository.cs",
+              "RelativeToolTip": "FinalProjectPSD\\Repository\\TransactionDetailRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:08:14.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerNavbar.Master",
+              "DocumentMoniker": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\View\\Customer\\CustomerNavbar.Master",
+              "RelativeDocumentMoniker": "FinalProjectPSD\\View\\Customer\\CustomerNavbar.Master",
+              "ToolTip": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\View\\Customer\\CustomerNavbar.Master",
+              "RelativeToolTip": "FinalProjectPSD\\View\\Customer\\CustomerNavbar.Master",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-11T06:32:18.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MakeupFactory.cs",
+              "DocumentMoniker": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Factory\\MakeupFactory.cs",
+              "RelativeDocumentMoniker": "FinalProjectPSD\\Factory\\MakeupFactory.cs",
+              "ToolTip": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Factory\\MakeupFactory.cs",
+              "RelativeToolTip": "FinalProjectPSD\\Factory\\MakeupFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:32:18.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomerNavbar.Master.cs",
+              "DocumentMoniker": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\View\\Customer\\CustomerNavbar.Master.cs",
+              "RelativeDocumentMoniker": "FinalProjectPSD\\View\\Customer\\CustomerNavbar.Master.cs",
+              "ToolTip": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\View\\Customer\\CustomerNavbar.Master.cs",
+              "RelativeToolTip": "FinalProjectPSD\\View\\Customer\\CustomerNavbar.Master.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:32:18.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ViewCustomer.aspx",
+              "DocumentMoniker": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\View\\Admin\\ViewCustomer.aspx",
+              "RelativeDocumentMoniker": "FinalProjectPSD\\View\\Admin\\ViewCustomer.aspx",
+              "ToolTip": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\View\\Admin\\ViewCustomer.aspx",
+              "RelativeToolTip": "FinalProjectPSD\\View\\Admin\\ViewCustomer.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-11T06:32:18.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ViewCustomer.aspx.cs",
+              "DocumentMoniker": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\View\\Admin\\ViewCustomer.aspx.cs",
+              "RelativeDocumentMoniker": "FinalProjectPSD\\View\\Admin\\ViewCustomer.aspx.cs",
+              "ToolTip": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\View\\Admin\\ViewCustomer.aspx.cs",
+              "RelativeToolTip": "FinalProjectPSD\\View\\Admin\\ViewCustomer.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:32:18.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MakeupTypeFactory.cs",
+              "DocumentMoniker": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Factory\\MakeupTypeFactory.cs",
+              "RelativeDocumentMoniker": "FinalProjectPSD\\Factory\\MakeupTypeFactory.cs",
+              "ToolTip": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Factory\\MakeupTypeFactory.cs",
+              "RelativeToolTip": "FinalProjectPSD\\Factory\\MakeupTypeFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:32:18.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MakeupTypeRepository.cs",
+              "DocumentMoniker": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Repository\\MakeupTypeRepository.cs",
+              "RelativeDocumentMoniker": "FinalProjectPSD\\Repository\\MakeupTypeRepository.cs",
+              "ToolTip": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Repository\\MakeupTypeRepository.cs",
+              "RelativeToolTip": "FinalProjectPSD\\Repository\\MakeupTypeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:32:18.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MakeupBrandFactory.cs",
+              "DocumentMoniker": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Factory\\MakeupBrandFactory.cs",
+              "RelativeDocumentMoniker": "FinalProjectPSD\\Factory\\MakeupBrandFactory.cs",
+              "ToolTip": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Factory\\MakeupBrandFactory.cs",
+              "RelativeToolTip": "FinalProjectPSD\\Factory\\MakeupBrandFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:32:18.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MakeupBrandRepository.cs",
+              "DocumentMoniker": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Repository\\MakeupBrandRepository.cs",
+              "RelativeDocumentMoniker": "FinalProjectPSD\\Repository\\MakeupBrandRepository.cs",
+              "ToolTip": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Repository\\MakeupBrandRepository.cs",
+              "RelativeToolTip": "FinalProjectPSD\\Repository\\MakeupBrandRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:32:18.701Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
