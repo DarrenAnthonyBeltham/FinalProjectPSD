@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/View/Customer/CustomerNavbar.Master" AutoEventWireup="true" CodeBehind="OrderMakeup.aspx.cs" Inherits="FinalProjectPSD.View.Customer.OrderMakeup" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Master/CustomerNavbar.Master" AutoEventWireup="true" CodeBehind="OrderMakeup.aspx.cs" Inherits="FinalProjectPSD.View.Customer.OrderMakeup" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">

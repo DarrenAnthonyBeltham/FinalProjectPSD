@@ -27,7 +27,7 @@ namespace FinalProjectPSD.Repository
 
         public void update(int id)
         {
-            TransactionHeader x = getByTransactionID((id);
+            TransactionHeader x = getByTransactionID(id);
             x.Status = "handled";
             db.SaveChanges();
         }

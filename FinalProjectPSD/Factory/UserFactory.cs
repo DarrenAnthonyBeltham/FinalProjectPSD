@@ -8,11 +8,11 @@ namespace FinalProjectPSD.Factory
 {
     public class UserFactory
     {
-        public static User create(String name, String email, DateTime DOB, String gender, String role, String password)
+        public static User create(String username, String email, String gender, String password, DateTime DOB, String role)
         {
             User user = new User()
             {
-                Username = name,
+                Username = username,
                 UserEmail = email,
                 UserDOB = DOB,
                 UserGender = gender,

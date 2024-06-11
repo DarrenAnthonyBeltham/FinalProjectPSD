@@ -90,10 +90,15 @@
       <LastGenOutput>MakeUpzzModel.cs</LastGenOutput>
     </Content>
     <Content Include="View\Admin\ViewCustomer.aspx" />
+    <Content Include="View\Customer\CustomerHome.aspx" />
     <Content Include="View\Customer\OrderMakeup.aspx" />
+    <Content Include="View\Customer\ProfilePage.aspx" />
+    <Content Include="View\Guest\LoginPage.aspx" />
+    <Content Include="View\Guest\RegisterPage.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controller\UserController.cs" />
     <Compile Include="Factory\CartFactory.cs" />
     <Compile Include="Factory\MakeupBrandFactory.cs" />
     <Compile Include="Factory\MakeupFactory.cs" />
@@ -101,6 +106,7 @@
     <Compile Include="Factory\TransactionDetailFactory.cs" />
     <Compile Include="Factory\TransactionHeaderFactory.cs" />
     <Compile Include="Factory\UserFactory.cs" />
+    <Compile Include="Handler\UserHandler.cs" />
     <Compile Include="Model\Cart.cs">
       <DependentUpon>MakeUpzzModel.tt</DependentUpon>
     </Compile>
@@ -153,12 +159,19 @@
     <Compile Include="View\Admin\ViewCustomer.aspx.designer.cs">
       <DependentUpon>ViewCustomer.aspx</DependentUpon>
     </Compile>
-    <Compile Include="View\Customer\CustomerNavbar.Master.cs">
+    <Compile Include="Master\CustomerNavbar.Master.cs">
       <DependentUpon>CustomerNavbar.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="View\Customer\CustomerNavbar.Master.designer.cs">
+    <Compile Include="Master\CustomerNavbar.Master.designer.cs">
       <DependentUpon>CustomerNavbar.Master</DependentUpon>
+    </Compile>
+    <Compile Include="View\Customer\CustomerHome.aspx.cs">
+      <DependentUpon>CustomerHome.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\Customer\CustomerHome.aspx.designer.cs">
+      <DependentUpon>CustomerHome.aspx</DependentUpon>
     </Compile>
     <Compile Include="View\Customer\OrderMakeup.aspx.cs">
       <DependentUpon>OrderMakeup.aspx</DependentUpon>
@@ -166,6 +179,27 @@
     </Compile>
     <Compile Include="View\Customer\OrderMakeup.aspx.designer.cs">
       <DependentUpon>OrderMakeup.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="View\Customer\ProfilePage.aspx.cs">
+      <DependentUpon>ProfilePage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\Customer\ProfilePage.aspx.designer.cs">
+      <DependentUpon>ProfilePage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="View\Guest\LoginPage.aspx.cs">
+      <DependentUpon>LoginPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\Guest\LoginPage.aspx.designer.cs">
+      <DependentUpon>LoginPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="View\Guest\RegisterPage.aspx.cs">
+      <DependentUpon>RegisterPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\Guest\RegisterPage.aspx.designer.cs">
+      <DependentUpon>RegisterPage.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
@@ -177,7 +211,7 @@
       <DependentUpon>MakeUpzzModel.edmx</DependentUpon>
     </Content>
     <None Include="packages.config" />
-    <Content Include="View\Customer\CustomerNavbar.Master" />
+    <Content Include="Master\CustomerNavbar.Master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -185,11 +219,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Controller\" />
-    <Folder Include="Handle\" />
-    <Folder Include="View\Guest\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
