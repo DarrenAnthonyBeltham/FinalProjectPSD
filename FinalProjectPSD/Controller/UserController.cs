@@ -85,9 +85,9 @@ namespace FinalProjectPSD.Controller
             return null;
         }
 
-        public String checkDOB(String dob)
+        public String checkDOB(DateTime dob)
         {
-            if (dob.Length == 0)
+            if (!dob == null)
             {
                 return "Date of Birth must not be empty";
             }
@@ -129,7 +129,7 @@ namespace FinalProjectPSD.Controller
 
         public String register(String username, String email, RadioButton male, RadioButton female, String password, string confpassword, DateTime DOB)
         {
-            String error = CheckUsername(password);
+            String error = CheckUsername(username);
 
             if (error == null)
             {

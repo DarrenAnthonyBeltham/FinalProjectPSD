@@ -61,3 +61,7 @@ C:\Users\User\OneDrive\Documents\GitHub\FinalProjectPSD\FinalProjectPSD\obj\Debu
 C:\Users\User\OneDrive\Documents\GitHub\FinalProjectPSD\FinalProjectPSD\obj\Debug\FinalPro.6ED7E3C7.Up2Date
 C:\Users\User\OneDrive\Documents\GitHub\FinalProjectPSD\FinalProjectPSD\obj\Debug\FinalProjectPSD.dll
 C:\Users\User\OneDrive\Documents\GitHub\FinalProjectPSD\FinalProjectPSD\obj\Debug\FinalProjectPSD.pdb
+C:\Users\darre\Documents\Code\C#\FinalProjectPSD\FinalProjectPSD\obj\Debug\FinalProjectPSD.csproj.AssemblyReference.cache
+C:\Users\darre\Documents\Code\C#\FinalProjectPSD\FinalProjectPSD\obj\Debug\FinalProjectPSD.csproj.CoreCompileInputs.cache
+C:\Users\darre\Documents\Code\C#\FinalProjectPSD\FinalProjectPSD\obj\Debug\FinalProjectPSD.dll
+C:\Users\darre\Documents\Code\C#\FinalProjectPSD\FinalProjectPSD\obj\Debug\FinalProjectPSD.pdb

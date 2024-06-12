@@ -87,13 +87,13 @@ namespace FinalProjectPSD.View.Guest
         protected global::System.Web.UI.WebControls.Label Label3;
 
         /// <summary>
-        /// TextBox1 control.
+        /// reg_password control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox1;
+        protected global::System.Web.UI.WebControls.TextBox reg_password;
 
         /// <summary>
         /// Label4 control.
@@ -105,13 +105,13 @@ namespace FinalProjectPSD.View.Guest
         protected global::System.Web.UI.WebControls.Label Label4;
 
         /// <summary>
-        /// TextBox2 control.
+        /// reg_confpass control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox2;
+        protected global::System.Web.UI.WebControls.TextBox reg_confpass;
 
         /// <summary>
         /// Label6 control.
@@ -123,13 +123,13 @@ namespace FinalProjectPSD.View.Guest
         protected global::System.Web.UI.WebControls.Label Label6;
 
         /// <summary>
-        /// TextBox3 control.
+        /// req_dob control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox3;
+        protected global::System.Web.UI.WebControls.TextBox req_dob;
 
         /// <summary>
         /// Label5 control.

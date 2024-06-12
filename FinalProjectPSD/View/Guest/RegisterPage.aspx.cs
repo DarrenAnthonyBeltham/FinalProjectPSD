@@ -16,6 +16,22 @@ namespace FinalProjectPSD.View.Guest
 
         protected void Button1_Click(object sender, EventArgs e)
         {
+            DateTime date = req_dob.Text;
+
+        }
+
+        protected void Calendar1_SelectionChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void TextBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void TextBox4_TextChanged(object sender, EventArgs e)
+        {
 
         }
     }

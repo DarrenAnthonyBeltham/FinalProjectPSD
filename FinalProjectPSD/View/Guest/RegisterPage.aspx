@@ -20,13 +20,13 @@
             <asp:RadioButton ID="rbFemale" runat="server" />Female
             <br />
             <asp:Label ID="Label3" runat="server" Text="Password: "></asp:Label>
-            <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
+            <asp:TextBox ID="reg_password" runat="server"></asp:TextBox>
             <br />
             <asp:Label ID="Label4" runat="server" Text=" Confirm Password: "></asp:Label>
-            <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
+            <asp:TextBox ID="reg_confpass" runat="server"></asp:TextBox>
             <br />
-            <asp:Label ID="Label6" runat="server" Text="DoB: "></asp:Label>
-            <asp:TextBox ID="TextBox3" runat="server"></asp:TextBox>
+            <asp:Label ID="Label6" runat="server" Text="DoB : "></asp:Label>
+            <asp:TextBox ID="req_dob" runat="server" TextMode="Date"></asp:TextBox>
             <br />
             <asp:Label ID="Label5" runat="server" Text="Already Have An Account?"></asp:Label>
             <a href="RegisterPage.aspx">Login</a>
