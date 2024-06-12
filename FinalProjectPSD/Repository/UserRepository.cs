@@ -1,4 +1,5 @@
 ﻿using FinalProjectPSD.Factory;
+using FinalProjectPSD.Handler;
 using FinalProjectPSD.Model;
 using System;
 using System.Collections.Generic;
@@ -44,12 +45,21 @@ namespace FinalProjectPSD.Repository
         {
             return (from x in db.Users where x.Username == username select x.UserID).FirstOrDefault();
         }
-
-        static int lastID = 0;
-
+                
         public int GenerateId()
         {
-            return Interlocked.Increment(ref lastID);
+            int id = (from x in db.Users select x.UserID).ToList().LastOrDefault();
+            int newID;
+
+            if (id == 0)
+            {
+                newID = 0;
+            }
+            else
+            {
+                newID = id + 1;
+            }
+            return newID;
         } 
     }
 }

@@ -14,6 +14,7 @@ namespace FinalProjectPSD.View.Admin
         UserRepository user = new UserRepository();
         protected void Page_Load(object sender, EventArgs e)
         {
+            Label1.Text = (string)Session["UserRole"];
             if (!IsPostBack)
             {
                 List<User> users = user.showUsers();

@@ -1,82 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\",
+  "WorkspaceRootPath": "D:\\School\\Univ\\Semester 4\\Pattern Software Design\\beltam\\FinalProjectPSD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|c:\\users\\user\\onedrive\\documents\\github\\finalprojectpsd\\finalprojectpsd\\view\\guest\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\view\\guest\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|D:\\School\\Univ\\Semester 4\\Pattern Software Design\\beltam\\FinalProjectPSD\\finalprojectpsd\\master\\customernavbar.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\master\\customernavbar.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|c:\\users\\user\\onedrive\\documents\\github\\finalprojectpsd\\finalprojectpsd\\view\\guest\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\view\\guest\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|d:\\school\\univ\\semester 4\\pattern software design\\beltam\\finalprojectpsd\\finalprojectpsd\\master\\customernavbar.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\master\\customernavbar.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|c:\\users\\user\\onedrive\\documents\\github\\finalprojectpsd\\finalprojectpsd\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|d:\\school\\univ\\semester 4\\pattern software design\\beltam\\finalprojectpsd\\finalprojectpsd\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|c:\\users\\user\\onedrive\\documents\\github\\finalprojectpsd\\finalprojectpsd\\view\\guest\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__SCHOOL_UNIV_SEMESTER_4_PATTERN_SOFTWARE_DESIGN_BELTAM_FINALPROJECTPSD_FINALPROJECTPSD_APP_DATA_MAKEUPZZ.MDF/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|d:\\school\\univ\\semester 4\\pattern software design\\beltam\\finalprojectpsd\\finalprojectpsd\\view\\guest\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\view\\guest\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\finalprojectpsd\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|d:\\school\\univ\\semester 4\\pattern software design\\beltam\\finalprojectpsd\\finalprojectpsd\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|c:\\users\\user\\onedrive\\documents\\github\\finalprojectpsd\\finalprojectpsd\\handler\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\handler\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|d:\\school\\univ\\semester 4\\pattern software design\\beltam\\finalprojectpsd\\finalprojectpsd\\view\\guest\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\view\\guest\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|c:\\users\\user\\onedrive\\documents\\github\\finalprojectpsd\\finalprojectpsd\\view\\guest\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\view\\guest\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|c:\\users\\user\\onedrive\\documents\\github\\finalprojectpsd\\finalprojectpsd\\factory\\userfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\factory\\userfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\finalprojectpsd\\repository\\datasingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\repository\\datasingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\finalprojectpsd\\factory\\transactionheaderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\factory\\transactionheaderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\finalprojectpsd\\factory\\transactiondetailfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\factory\\transactiondetailfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\finalprojectpsd\\repository\\transactiondetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\repository\\transactiondetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\finalprojectpsd\\factory\\makeupfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\factory\\makeupfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\finalprojectpsd\\factory\\makeuptypefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\factory\\makeuptypefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\finalprojectpsd\\factory\\makeupbrandfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\factory\\makeupbrandfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\finalprojectpsd\\repository\\makeuptyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\repository\\makeuptyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\finalprojectpsd\\repository\\makeupbrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\repository\\makeupbrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\finalprojectpsd\\view\\admin\\viewcustomer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|D:\\School\\Univ\\Semester 4\\Pattern Software Design\\beltam\\FinalProjectPSD\\finalprojectpsd\\view\\admin\\viewcustomer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\view\\admin\\viewcustomer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|c:\\users\\user\\onedrive\\documents\\github\\finalprojectpsd\\finalprojectpsd\\master\\customernavbar.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\master\\customernavbar.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,17 +41,74 @@
       "DocumentGroups": [
         {
           "DockedHeight": 175,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__SCHOOL_UNIV_SEMESTER_4_PATTERN_SOFTWARE_DESIGN_BELTAM_FINALPROJECTPSD_FINALPROJECTPSD_APP_DATA_MAKEUPZZ.MDF/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-12T10:35:00.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\School\\Univ\\Semester 4\\Pattern Software Design\\beltam\\FinalProjectPSD\\FinalProjectPSD\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "FinalProjectPSD\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\School\\Univ\\Semester 4\\Pattern Software Design\\beltam\\FinalProjectPSD\\FinalProjectPSD\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "FinalProjectPSD\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAA+wDYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:23:13.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\School\\Univ\\Semester 4\\Pattern Software Design\\beltam\\FinalProjectPSD\\FinalProjectPSD\\Controller\\UserController.cs",
+              "RelativeDocumentMoniker": "FinalProjectPSD\\Controller\\UserController.cs",
+              "ToolTip": "D:\\School\\Univ\\Semester 4\\Pattern Software Design\\beltam\\FinalProjectPSD\\FinalProjectPSD\\Controller\\UserController.cs",
+              "RelativeToolTip": "FinalProjectPSD\\Controller\\UserController.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAiwH0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:15:32.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginPage.aspx",
+              "DocumentMoniker": "D:\\School\\Univ\\Semester 4\\Pattern Software Design\\beltam\\FinalProjectPSD\\FinalProjectPSD\\View\\Guest\\LoginPage.aspx",
+              "RelativeDocumentMoniker": "FinalProjectPSD\\View\\Guest\\LoginPage.aspx",
+              "ToolTip": "D:\\School\\Univ\\Semester 4\\Pattern Software Design\\beltam\\FinalProjectPSD\\FinalProjectPSD\\View\\Guest\\LoginPage.aspx",
+              "RelativeToolTip": "FinalProjectPSD\\View\\Guest\\LoginPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-12T10:16:25.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "LoginPage.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\View\\Guest\\LoginPage.aspx.cs",
+              "DocumentMoniker": "D:\\School\\Univ\\Semester 4\\Pattern Software Design\\beltam\\FinalProjectPSD\\FinalProjectPSD\\View\\Guest\\LoginPage.aspx.cs",
               "RelativeDocumentMoniker": "FinalProjectPSD\\View\\Guest\\LoginPage.aspx.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\View\\Guest\\LoginPage.aspx.cs",
+              "ToolTip": "D:\\School\\Univ\\Semester 4\\Pattern Software Design\\beltam\\FinalProjectPSD\\FinalProjectPSD\\View\\Guest\\LoginPage.aspx.cs",
               "RelativeToolTip": "FinalProjectPSD\\View\\Guest\\LoginPage.aspx.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwBwAAAAJAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBcAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T14:25:22.3Z",
               "EditorCaption": ""
@@ -104,192 +116,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RegisterPage.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\View\\Guest\\RegisterPage.aspx.cs",
-              "RelativeDocumentMoniker": "FinalProjectPSD\\View\\Guest\\RegisterPage.aspx.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\View\\Guest\\RegisterPage.aspx.cs",
-              "RelativeToolTip": "FinalProjectPSD\\View\\Guest\\RegisterPage.aspx.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAiwBIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T14:25:00.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Controller\\UserController.cs",
-              "RelativeDocumentMoniker": "FinalProjectPSD\\Controller\\UserController.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Controller\\UserController.cs",
-              "RelativeToolTip": "FinalProjectPSD\\Controller\\UserController.cs",
-              "ViewState": "AQIAAIcAAAAAAAAAAAAiwJMAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T13:31:00.564Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginPage.aspx",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\View\\Guest\\LoginPage.aspx",
-              "RelativeDocumentMoniker": "FinalProjectPSD\\View\\Guest\\LoginPage.aspx",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\View\\Guest\\LoginPage.aspx",
-              "RelativeToolTip": "FinalProjectPSD\\View\\Guest\\LoginPage.aspx",
+              "Title": "CustomerNavbar.Master",
+              "DocumentMoniker": "D:\\School\\Univ\\Semester 4\\Pattern Software Design\\beltam\\FinalProjectPSD\\FinalProjectPSD\\Master\\CustomerNavbar.Master",
+              "RelativeDocumentMoniker": "FinalProjectPSD\\Master\\CustomerNavbar.Master",
+              "ToolTip": "D:\\School\\Univ\\Semester 4\\Pattern Software Design\\beltam\\FinalProjectPSD\\FinalProjectPSD\\Master\\CustomerNavbar.Master",
+              "RelativeToolTip": "FinalProjectPSD\\Master\\CustomerNavbar.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-11T12:47:24.582Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Repository\\UserRepository.cs",
-              "RelativeDocumentMoniker": "FinalProjectPSD\\Repository\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Repository\\UserRepository.cs",
-              "RelativeToolTip": "FinalProjectPSD\\Repository\\UserRepository.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAjwA4AAABmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T06:32:18.493Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserHandler.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Handler\\UserHandler.cs",
-              "RelativeDocumentMoniker": "FinalProjectPSD\\Handler\\UserHandler.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Handler\\UserHandler.cs",
-              "RelativeToolTip": "FinalProjectPSD\\Handler\\UserHandler.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAjwA4AAABjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T13:34:06.253Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RegisterPage.aspx",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\View\\Guest\\RegisterPage.aspx",
-              "RelativeDocumentMoniker": "FinalProjectPSD\\View\\Guest\\RegisterPage.aspx",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\View\\Guest\\RegisterPage.aspx",
-              "RelativeToolTip": "FinalProjectPSD\\View\\Guest\\RegisterPage.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-11T13:05:08.846Z",
+              "WhenOpened": "2024-06-12T10:12:50.468Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "UserFactory.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Factory\\UserFactory.cs",
-              "RelativeDocumentMoniker": "FinalProjectPSD\\Factory\\UserFactory.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Factory\\UserFactory.cs",
-              "RelativeToolTip": "FinalProjectPSD\\Factory\\UserFactory.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAywAoAAABpAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T13:19:58.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DataSingleton.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Repository\\DataSingleton.cs",
-              "RelativeDocumentMoniker": "FinalProjectPSD\\Repository\\DataSingleton.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Repository\\DataSingleton.cs",
-              "RelativeToolTip": "FinalProjectPSD\\Repository\\DataSingleton.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T06:32:18.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "MakeupBrandRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Repository\\MakeupBrandRepository.cs",
-              "RelativeDocumentMoniker": "FinalProjectPSD\\Repository\\MakeupBrandRepository.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Repository\\MakeupBrandRepository.cs",
-              "RelativeToolTip": "FinalProjectPSD\\Repository\\MakeupBrandRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T06:32:18.701Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TransactionHeaderFactory.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Factory\\TransactionHeaderFactory.cs",
-              "RelativeDocumentMoniker": "FinalProjectPSD\\Factory\\TransactionHeaderFactory.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Factory\\TransactionHeaderFactory.cs",
-              "RelativeToolTip": "FinalProjectPSD\\Factory\\TransactionHeaderFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T08:35:07.628Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TransactionDetailFactory.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Factory\\TransactionDetailFactory.cs",
-              "RelativeDocumentMoniker": "FinalProjectPSD\\Factory\\TransactionDetailFactory.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Factory\\TransactionDetailFactory.cs",
-              "RelativeToolTip": "FinalProjectPSD\\Factory\\TransactionDetailFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T08:45:42.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "TransactionDetailRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Repository\\TransactionDetailRepository.cs",
-              "RelativeDocumentMoniker": "FinalProjectPSD\\Repository\\TransactionDetailRepository.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Repository\\TransactionDetailRepository.cs",
-              "RelativeToolTip": "FinalProjectPSD\\Repository\\TransactionDetailRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T08:08:14.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MakeupFactory.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Factory\\MakeupFactory.cs",
-              "RelativeDocumentMoniker": "FinalProjectPSD\\Factory\\MakeupFactory.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Factory\\MakeupFactory.cs",
-              "RelativeToolTip": "FinalProjectPSD\\Factory\\MakeupFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T06:32:18.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "CustomerNavbar.Master.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Master\\CustomerNavbar.Master.cs",
-              "RelativeDocumentMoniker": "FinalProjectPSD\\Master\\CustomerNavbar.Master.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Master\\CustomerNavbar.Master.cs",
-              "RelativeToolTip": "FinalProjectPSD\\Master\\CustomerNavbar.Master.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T06:32:18.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
               "Title": "ViewCustomer.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\View\\Admin\\ViewCustomer.aspx.cs",
+              "DocumentMoniker": "D:\\School\\Univ\\Semester 4\\Pattern Software Design\\beltam\\FinalProjectPSD\\FinalProjectPSD\\View\\Admin\\ViewCustomer.aspx.cs",
               "RelativeDocumentMoniker": "FinalProjectPSD\\View\\Admin\\ViewCustomer.aspx.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\View\\Admin\\ViewCustomer.aspx.cs",
+              "ToolTip": "D:\\School\\Univ\\Semester 4\\Pattern Software Design\\beltam\\FinalProjectPSD\\FinalProjectPSD\\View\\Admin\\ViewCustomer.aspx.cs",
               "RelativeToolTip": "FinalProjectPSD\\View\\Admin\\ViewCustomer.aspx.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -298,41 +141,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MakeupTypeFactory.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Factory\\MakeupTypeFactory.cs",
-              "RelativeDocumentMoniker": "FinalProjectPSD\\Factory\\MakeupTypeFactory.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Factory\\MakeupTypeFactory.cs",
-              "RelativeToolTip": "FinalProjectPSD\\Factory\\MakeupTypeFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "DocumentIndex": 0,
+              "Title": "CustomerNavbar.Master.cs",
+              "DocumentMoniker": "D:\\School\\Univ\\Semester 4\\Pattern Software Design\\beltam\\FinalProjectPSD\\FinalProjectPSD\\Master\\CustomerNavbar.Master.cs",
+              "RelativeDocumentMoniker": "FinalProjectPSD\\Master\\CustomerNavbar.Master.cs",
+              "ToolTip": "D:\\School\\Univ\\Semester 4\\Pattern Software Design\\beltam\\FinalProjectPSD\\FinalProjectPSD\\Master\\CustomerNavbar.Master.cs",
+              "RelativeToolTip": "FinalProjectPSD\\Master\\CustomerNavbar.Master.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T06:32:18.456Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "MakeupTypeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Repository\\MakeupTypeRepository.cs",
-              "RelativeDocumentMoniker": "FinalProjectPSD\\Repository\\MakeupTypeRepository.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Repository\\MakeupTypeRepository.cs",
-              "RelativeToolTip": "FinalProjectPSD\\Repository\\MakeupTypeRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T06:32:18.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MakeupBrandFactory.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Factory\\MakeupBrandFactory.cs",
-              "RelativeDocumentMoniker": "FinalProjectPSD\\Factory\\MakeupBrandFactory.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Factory\\MakeupBrandFactory.cs",
-              "RelativeToolTip": "FinalProjectPSD\\Factory\\MakeupBrandFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T06:32:18.701Z",
+              "WhenOpened": "2024-06-11T06:32:18.491Z",
               "EditorCaption": ""
             }
           ]

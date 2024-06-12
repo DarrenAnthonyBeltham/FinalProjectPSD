@@ -5,13 +5,13 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace FinalProjectPSD.View.Customer
+namespace FinalProjectPSD.Master
 {
     public partial class CustomerNavbar : System.Web.UI.MasterPage
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            
         }
 
         protected void orderBtn_click(object sender, EventArgs e)

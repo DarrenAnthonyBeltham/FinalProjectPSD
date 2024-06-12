@@ -2,6 +2,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
         <asp:GridView ID="userGridView" runat="server" AutoGenerateColumns="False">
         <Columns>
             <asp:BoundField DataField="UserName" HeaderText="Username" SortExpression="UserName" />
