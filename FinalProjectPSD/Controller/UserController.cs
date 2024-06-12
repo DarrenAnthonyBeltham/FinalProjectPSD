@@ -54,7 +54,7 @@ namespace FinalProjectPSD.Controller
 
         public bool isAlphaNum(String password)
         {
-            String pattern = @"^(?=.*[A-Za-z])(?=.*\d)$";
+            String pattern = "^[a-zA-Z0-9]*$";
             Regex regex = new Regex(pattern);
 
             return regex.IsMatch(password);
@@ -87,7 +87,7 @@ namespace FinalProjectPSD.Controller
 
         public String checkDOB(DateTime dob)
         {
-            if (!dob == null)
+            if (dob.ToString("dd-mm-yyyy").Equals(""))
             {
                 return "Date of Birth must not be empty";
             }
@@ -160,8 +160,10 @@ namespace FinalProjectPSD.Controller
                     gender = "female";
                 }
                 error = null;
-                handler.AddUser(username, email, gender, password, DOB, "customer");
+                int id = handler.generateID();
+                handler.AddUser(id, username, email, gender, password, DOB, "customer");
             }
+            return error;
         }
     }
 }

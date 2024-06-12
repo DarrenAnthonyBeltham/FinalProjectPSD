@@ -123,13 +123,13 @@ namespace FinalProjectPSD.View.Guest
         protected global::System.Web.UI.WebControls.Label Label6;
 
         /// <summary>
-        /// req_dob control.
+        /// Calendar control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox req_dob;
+        protected global::System.Web.UI.WebControls.Calendar Calendar;
 
         /// <summary>
         /// Label5 control.
@@ -139,6 +139,15 @@ namespace FinalProjectPSD.View.Guest
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label Label5;
+
+        /// <summary>
+        /// reg_errorlbl control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label reg_errorlbl;
 
         /// <summary>
         /// Button1 control.

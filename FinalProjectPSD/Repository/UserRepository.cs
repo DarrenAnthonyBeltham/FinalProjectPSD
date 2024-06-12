@@ -3,6 +3,7 @@ using FinalProjectPSD.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading;
 using System.Web;
 using System.Web.UI.WebControls;
 
@@ -12,16 +13,16 @@ namespace FinalProjectPSD.Repository
     {
         private static MakeUpzzEntities1 db = DataSingleton.getInstance();
 
-        public void createUser(String username, String email, String gender, String password, DateTime DOB, String role)
+        public void createUser(int id, String username, String email, String gender, String password, DateTime DOB, String role)
         {
-            User user = UserFactory.create(username, email, gender, password, DOB, role);
+            User user = UserFactory.create(id,username, email, gender, password, DOB, role);
             db.Users.Add(user);
             db.SaveChanges();
         }
 
         public User uniqueUsername(String username)
         {
-           return(from u in db.Users where u.Username == username select u).FirstOrDefault();
+            return(from u in db.Users where u.Username == username select u).FirstOrDefault();
         }
 
         public User checkuser(String username, String password)
@@ -43,5 +44,12 @@ namespace FinalProjectPSD.Repository
         {
             return (from x in db.Users where x.Username == username select x.UserID).FirstOrDefault();
         }
+
+        static int lastID = 0;
+
+        public int GenerateId()
+        {
+            return Interlocked.Increment(ref lastID);
+        } 
     }
 }

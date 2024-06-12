@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FinalProjectPSD.Controller;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -9,6 +10,7 @@ namespace FinalProjectPSD.View.Guest
 {
     public partial class RegisterPage : System.Web.UI.Page
     {
+        UserController uc = new UserController();
         protected void Page_Load(object sender, EventArgs e)
         {
 
@@ -16,23 +18,19 @@ namespace FinalProjectPSD.View.Guest
 
         protected void Button1_Click(object sender, EventArgs e)
         {
-            DateTime date = req_dob.Text;
+            String username = TB_name.Text;
+            String email = TB_email.Text;
+            RadioButton male = rbMale;
+            RadioButton female = rbFemale;
+            String password = reg_password.Text;
+            String confpassword = reg_confpass.Text;
+            DateTime dob = Calendar.SelectedDate;
+            reg_errorlbl.Text = uc.register(username, email, male, female, password, confpassword, dob);
 
-        }
-
-        protected void Calendar1_SelectionChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        protected void TextBox2_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        protected void TextBox4_TextChanged(object sender, EventArgs e)
-        {
-
+            if (reg_errorlbl.Text.Equals(""))
+            {
+                Response.Redirect("LoginPage.aspx");
+            }
         }
     }
 }

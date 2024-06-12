@@ -26,10 +26,12 @@
             <asp:TextBox ID="reg_confpass" runat="server"></asp:TextBox>
             <br />
             <asp:Label ID="Label6" runat="server" Text="DoB : "></asp:Label>
-            <asp:TextBox ID="req_dob" runat="server" TextMode="Date"></asp:TextBox>
+            <asp:Calendar ID="Calendar" runat="server"></asp:Calendar>
             <br />
             <asp:Label ID="Label5" runat="server" Text="Already Have An Account?"></asp:Label>
             <a href="RegisterPage.aspx">Login</a>
+            <br />
+            <asp:Label ID="reg_errorlbl" runat="server" Text=""></asp:Label>
             <br />
             <asp:Button ID="Button1" runat="server" Text="Register" OnClick="Button1_Click"/>
         </div>

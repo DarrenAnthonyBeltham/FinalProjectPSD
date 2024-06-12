@@ -12,9 +12,9 @@ namespace FinalProjectPSD.Handler
     {
         UserRepository UserRepo = new UserRepository();
 
-        public void AddUser(String username, String email, String gender, String password, DateTime DOB, String role)
+        public void AddUser(int id, String username, String email, String gender, String password, DateTime DOB, String role)
         {
-            UserRepo.createUser(username, email, gender, password, DOB, role);
+            UserRepo.createUser(id, username, email, gender, password, DOB, role);
         }
 
         public User checkUsernameUniq(string username)
@@ -30,6 +30,11 @@ namespace FinalProjectPSD.Handler
         public User userbyusername(String username)
         {
             return UserRepo.getUser(username);
+        }
+
+        public int generateID()
+        {
+            return UserRepo.GenerateId();
         }
     }
 }
