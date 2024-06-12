@@ -24,7 +24,7 @@ namespace FinalProjectPSD.View.Guest
             Lbl_error.Text = uc.login(username, password, CB);
             if (Lbl_error.Text.Equals(""))
             {
-                Response.Redirect("CustomerHome.aspx");
+                Response.Redirect("/View/Customer/CustomerHome.aspx");
             }
         }
     }

@@ -102,5 +102,10 @@ namespace FinalProjectPSD.Repository
             }
             deleteCart(userID);
         }
+
+        public int getIDFromUsername(string x)
+        {
+            return (from a in db.Users where a.Username.Equals(x) select a.UserID).ToList().LastOrDefault();
+        }
     }
 }

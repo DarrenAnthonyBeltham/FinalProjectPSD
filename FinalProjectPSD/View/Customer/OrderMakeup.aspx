@@ -5,7 +5,7 @@
     <div>
         <h1>MakeMeUpzz Catalog</h1>
 
-        <asp:GridView ID="makeupList" runat="server" AutoGenerateColumns="False" OnRowCommand="makeupList_RowCommand" OnSelectedIndexChanged="makeupList_SelectedIndexChanged">
+        <asp:GridView ID="makeupList" runat="server" AutoGenerateColumns="False" OnRowCommand="makeupList_RowCommand">
             <Columns>
                 <asp:BoundField DataField="MakeupName" HeaderText="Name" SortExpression="MakeupName" />
                 <asp:BoundField DataField="MakeupPrice" HeaderText="Price" SortExpression="MakeupPrice" />

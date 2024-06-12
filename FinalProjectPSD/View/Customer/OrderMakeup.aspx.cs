@@ -1,4 +1,5 @@
-﻿using FinalProjectPSD.Model;
+﻿using FinalProjectPSD.Controller;
+using FinalProjectPSD.Model;
 using FinalProjectPSD.Repository;
 using System;
 using System.Collections.Generic;
@@ -18,31 +19,19 @@ namespace FinalProjectPSD.View.Customer
         UserRepository repo= new UserRepository();
         MakeupRepository makeupRepo = new MakeupRepository();
         CartRepository cartRepo = new CartRepository();
+        CartController controller = new CartController();
+        MakeupController makeupController = new MakeupController();
+        string x = "";
         protected void Page_Load(object sender, EventArgs e)
         {
+            x = Session["Username"].ToString();
 
-        }
-
-        private int getUserID()
-        {
-            string x = Session["Username"].ToString();
-            int id = repo.getIDFromUsername(x);
-            return id;
-        }
-
-        private void showMakeupList()
-        {
-            makeups = makeupRepo.showMakeUp();
-            makeupList.DataSource = makeups;
-            makeupList.DataBind();
-        }
-       
-        private void showCartList()
-        {
-            int id = getUserID();
-            carts = cartRepo.getCart(id);
+            controller.showCartList (x);
             cartList.DataSource = carts;
             cartList.DataBind();
+            makeupController.showMakeupList();
+            makeupList.DataSource = makeups;
+            makeupList.DataBind();
         }
 
         protected void makeupList_RowCommand(object sender, GridViewCommandEventArgs e)
@@ -57,9 +46,11 @@ namespace FinalProjectPSD.View.Customer
 
                 if(qty > 0)
                 {
-                    int userID = getUserID();
-                    cartRepo.addCart(userID, makeupID, qty);
-                    showCartList();
+                    int userID = controller.getUserID(x);
+                    controller.addCart(userID, makeupID, qty);
+                    carts = controller.showCartList(x);
+                    cartList.DataSource = carts;
+                    cartList.DataBind();
                 }
                 else
                 {
@@ -70,16 +61,20 @@ namespace FinalProjectPSD.View.Customer
 
         protected void clearBtn_Click(object sender, EventArgs e)
         {
-            int x = getUserID();
-            cartRepo.deleteCart(x);
-            showCartList();
+            int q = controller.getUserID(x);
+            controller.deleteCart(q);
+            carts = controller.showCartList(x);
+            cartList.DataSource = carts;
+            cartList.DataBind();
         }
 
         protected void checkoutBtn_Click(object sender, EventArgs e)
         {
-            int x = getUserID();
-            cartRepo.checkout(x);
-            showCartList();
+            int q = controller.getUserID(x);
+            controller.checkout(q);
+            carts = controller.showCartList(x);
+            cartList.DataSource = carts;
+            cartList.DataBind();
         }
     }
 }
