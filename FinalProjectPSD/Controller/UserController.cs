@@ -170,5 +170,57 @@ namespace FinalProjectPSD.Controller
             }
             return error;
         }
+
+        public User GetUserbyID(int id)
+        {
+            return handler.userbyid(id);
+        }
+
+        public void deleteName(int id)
+        {
+            handler.deleteName(id);
+            return;
+        }
+        public String valdateGender(RadioButton male, RadioButton female, ref string gender)
+        {
+            if (!male.Checked && !female.Checked)
+            {
+                return "Gender must be picked";
+            }
+            else
+            {
+                if (female.Checked)
+                {
+                    gender = "female";
+                }
+                else
+                {
+                    gender = "male";
+                }
+            }
+            return null;
+        }
+
+        public void updateProfile(int id, string name, string email, string gender, DateTime dob)
+        {
+            handler.updateProfile(id, name, email, gender, dob);
+            return;
+        }
+
+        public string ValidateOldPassword(int userID, string oldPassword)
+        {
+            String pass = handler.GetUserPassword(userID);
+
+            if (!pass.Equals(oldPassword))
+            {
+                return "Old Password is incorrect";
+            }
+            return "";
+        }
+
+        public void UpdateUserPassword(int id, string newPass)
+        {
+            handler.UpdateUserPassword(id, newPass);
+        }
     }
 }

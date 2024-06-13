@@ -39,4 +39,8 @@
         <br />
         <asp:Label ID="cartLbl" runat="server" Text=""></asp:Label>
     </div>
+
+    <div>
+        <asp:Label ID="ErrorLabel" runat="server" Text=""></asp:Label>
+    </div>
 </asp:Content>

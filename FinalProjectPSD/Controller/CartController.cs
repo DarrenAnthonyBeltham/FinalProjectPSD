@@ -37,5 +37,11 @@ namespace FinalProjectPSD.Controller
         {
             handler.addCart(userID, makeupID, qty);
         }
+
+        public string cartListEmptyError(string x)
+        {
+
+            return showCartList(x).Count == 0 ? "No items in your shopping cart!" : "";
+        }
     }
 }

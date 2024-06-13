@@ -41,5 +41,26 @@ namespace FinalProjectPSD.Handler
         {
             return UserRepo.GenerateId();
         }
+
+        public void deleteName(int id)
+        {
+            UserRepo.deleteName(id);
+            return;
+        }
+        public void updateProfile(int id, string name, string email, string gender, DateTime dob)
+        {
+            UserRepo.updateProfile(id, name, email, gender, dob);
+            return;
+        }
+
+        public String GetUserPassword(int id)
+        {
+            return UserRepo.GetUserPassword(id);
+        }
+
+        public void UpdateUserPassword(int id, string newPass)
+        {
+            UserRepo.UpdateUserPassword(id, newPass);
+        }
     }
 }

@@ -16,17 +16,18 @@ namespace FinalProjectPSD.Master
 
         protected void orderBtn_click(object sender, EventArgs e)
         {
-
+            
+            Response.Redirect("~/View/Customer/OrderMakeUp.aspx");
         }
 
         protected void historyBtn_click(object sender, EventArgs e)
         {
-
+            //Response.Redirect("~/View/Customer/History.aspx");
         }
 
         protected void profileBtn_click(object sender, EventArgs e)
         {
-
+            Response.Redirect("~/View/Customer/ProfilePage.aspx");
         }
 
         protected void logoutBtn_click(object sender, EventArgs e)
@@ -43,7 +44,7 @@ namespace FinalProjectPSD.Master
 
         protected void HomeBtn_Click(object sender, EventArgs e)
         {
-
+            Response.Redirect("~/View/Customer/OrderMakeUp.aspx");
         }
 
         protected void ManageBtn_Click(object sender, EventArgs e)

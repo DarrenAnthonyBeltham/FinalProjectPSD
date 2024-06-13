@@ -11,9 +11,24 @@ namespace FinalProjectPSD.Repository
     {
         public MakeUpzzEntities1 db = DataSingleton.getInstance();
 
-        public void insertMakeUpBrand(int id, string name, int rating)
+        public int getId()
         {
-            MakeupBrand makeUpBrand = MakeupBrandFactory.create(id, name, rating);
+            int newID;
+            int id = (from x in db.MakeupBrands select x.MakeupBrandID).ToList().LastOrDefault();
+
+            if (id == 0)
+            {
+                newID = 1;
+            }
+            else
+            {
+                newID = id + 1;
+            }
+            return newID;
+        }
+        public void insertMakeUpBrand(string name, int rating)
+        {
+            MakeupBrand makeUpBrand = MakeupBrandFactory.create(getId(), name, rating);
             db.MakeupBrands.Add(makeUpBrand);
             db.SaveChanges();
         }
@@ -44,6 +59,21 @@ namespace FinalProjectPSD.Repository
             {
                 throw new Exception("Make Up Brands not Found!");
             }
+        }
+
+        public List<MakeupBrand> getAllMakeupBrand()
+        {
+            return (from x in db.MakeupBrands select x).ToList();
+        }
+
+        public List<MakeupBrand> getAllMakeupBrandDescending()
+        {
+            return (from x in db.MakeupBrands orderby x.MakeupBrandRating descending select x).ToList();
+        }
+
+        public MakeupBrand getMakeupBrand(int id)
+        {
+            return (from x in db.MakeupBrands where x.MakeupBrandID == id select x).FirstOrDefault();
         }
     }
 }

@@ -76,7 +76,7 @@ namespace FinalProjectPSD.Repository
 
             if(items == null || !items.Any())
             {
-                throw new InvalidOperationException("No items in your shopping cart!");
+                //throw new InvalidOperationException("No items in your shopping cart!");
             }
 
             int transactionHeaderID = generateTransactionHeaderID();

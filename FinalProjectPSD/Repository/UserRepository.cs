@@ -65,6 +65,43 @@ namespace FinalProjectPSD.Repository
                 newID = id + 1;
             }
             return newID;
-        } 
+        }
+
+        public User userbyid(int id)
+        {
+            return (from x in db.Users where x.UserID == id select x).FirstOrDefault();
+        }
+
+        public void deleteName(int id)
+        {
+            User user = userbyid(id);
+            user.Username = "";
+            db.SaveChanges();
+        }
+
+        public void updateProfile(int id, string name, string email, string gender, DateTime dob)
+        {
+            User user = userbyid(id);
+            user.Username = name;
+            user.UserEmail = email;
+            user.UserGender = gender;
+            user.UserDOB = dob;
+
+            db.SaveChanges();
+            return;
+        }
+
+        public String GetUserPassword(int id)
+        {
+            User user = userbyid(id);
+            return user.UserPassword;
+        }
+
+        public void UpdateUserPassword(int id, string newPass)
+        {
+            User user = userbyid(id);
+            user.UserPassword = newPass;
+            db.SaveChanges();
+        }
     }
 }

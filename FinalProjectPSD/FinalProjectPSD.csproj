@@ -99,6 +99,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controller\CartController.cs" />
+    <Compile Include="Controller\MakeupBrandController.cs" />
     <Compile Include="Controller\MakeupController.cs" />
     <Compile Include="Controller\UserController.cs" />
     <Compile Include="Factory\CartFactory.cs" />
@@ -109,6 +110,7 @@
     <Compile Include="Factory\TransactionHeaderFactory.cs" />
     <Compile Include="Factory\UserFactory.cs" />
     <Compile Include="Handler\CartHandler.cs" />
+    <Compile Include="Handler\MakeupBrandHandler.cs" />
     <Compile Include="Handler\MakeupHandler.cs" />
     <Compile Include="Handler\UserHandler.cs" />
     <Compile Include="Model\Cart.cs">
@@ -224,6 +226,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Report\" />
     <Folder Include="View\Admin\" />
   </ItemGroup>
   <ItemGroup>

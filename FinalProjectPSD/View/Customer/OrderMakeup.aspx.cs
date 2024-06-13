@@ -4,6 +4,7 @@ using FinalProjectPSD.Repository;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.Design;
+using System.Drawing;
 using System.Linq;
 using System.Web;
 using System.Web.UI;
@@ -24,7 +25,9 @@ namespace FinalProjectPSD.View.Customer
         string x = "";
         protected void Page_Load(object sender, EventArgs e)
         {
-            x = Session["Username"].ToString();
+            HttpCookie cookie = Request.Cookies["user_cookie"];
+            if (cookie == null) Response.Redirect("/View/Guest/LoginPage.aspx");
+            x = cookie.Value;
 
             controller.showCartList (x);
             cartList.DataSource = carts;
@@ -73,6 +76,10 @@ namespace FinalProjectPSD.View.Customer
             int q = controller.getUserID(x);
             controller.checkout(q);
             carts = controller.showCartList(x);
+
+            ErrorLabel.Text = controller.cartListEmptyError(x);
+            ErrorLabel.ForeColor = Color.Red;
+
             cartList.DataSource = carts;
             cartList.DataBind();
         }
