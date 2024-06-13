@@ -13,7 +13,6 @@ namespace FinalProjectPSD.Controller
         MakeupHandler handler = new MakeupHandler();
         MakeupRepository repository = new MakeupRepository();
 
-
         public List<Makeup> showMakeupList()
         {
             return repository.showMakeUp();

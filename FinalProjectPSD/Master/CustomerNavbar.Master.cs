@@ -44,7 +44,7 @@ namespace FinalProjectPSD.Master
 
         protected void HomeBtn_Click(object sender, EventArgs e)
         {
-            Response.Redirect("~/View/Customer/OrderMakeUp.aspx");
+            Response.Redirect("~/View/Homepage.aspx");
         }
 
         protected void ManageBtn_Click(object sender, EventArgs e)

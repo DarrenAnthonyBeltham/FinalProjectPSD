@@ -89,6 +89,11 @@
       <DependentUpon>MakeUpzzModel.edmx</DependentUpon>
       <LastGenOutput>MakeUpzzModel.cs</LastGenOutput>
     </Content>
+    <Content Include="View\Admin\HandleTransaction.aspx" />
+    <Content Include="View\Admin\InsertMakeupBrand.aspx" />
+    <Content Include="View\Admin\ManageMakeup.aspx" />
+    <Content Include="View\Admin\UpdateMakeupBrand.aspx" />
+    <Content Include="View\Admin\ViewCustomer.aspx" />
     <Content Include="View\Customer\OrderMakeup.aspx" />
     <Content Include="View\Customer\ProfilePage.aspx" />
     <Content Include="View\Guest\LoginPage.aspx" />
@@ -101,6 +106,7 @@
     <Compile Include="Controller\CartController.cs" />
     <Compile Include="Controller\MakeupBrandController.cs" />
     <Compile Include="Controller\MakeupController.cs" />
+    <Compile Include="Controller\TransactionHeaderController.cs" />
     <Compile Include="Controller\UserController.cs" />
     <Compile Include="Factory\CartFactory.cs" />
     <Compile Include="Factory\MakeupBrandFactory.cs" />
@@ -112,6 +118,7 @@
     <Compile Include="Handler\CartHandler.cs" />
     <Compile Include="Handler\MakeupBrandHandler.cs" />
     <Compile Include="Handler\MakeupHandler.cs" />
+    <Compile Include="Handler\TransactionHeaderHandler.cs" />
     <Compile Include="Handler\UserHandler.cs" />
     <Compile Include="Model\Cart.cs">
       <DependentUpon>MakeUpzzModel.tt</DependentUpon>
@@ -164,6 +171,41 @@
     </Compile>
     <Compile Include="Master\CustomerNavbar.Master.designer.cs">
       <DependentUpon>CustomerNavbar.Master</DependentUpon>
+    </Compile>
+    <Compile Include="View\Admin\HandleTransaction.aspx.cs">
+      <DependentUpon>HandleTransaction.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\Admin\HandleTransaction.aspx.designer.cs">
+      <DependentUpon>HandleTransaction.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="View\Admin\InsertMakeupBrand.aspx.cs">
+      <DependentUpon>InsertMakeupBrand.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\Admin\InsertMakeupBrand.aspx.designer.cs">
+      <DependentUpon>InsertMakeupBrand.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="View\Admin\ManageMakeup.aspx.cs">
+      <DependentUpon>ManageMakeup.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\Admin\ManageMakeup.aspx.designer.cs">
+      <DependentUpon>ManageMakeup.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="View\Admin\UpdateMakeupBrand.aspx.cs">
+      <DependentUpon>UpdateMakeupBrand.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\Admin\UpdateMakeupBrand.aspx.designer.cs">
+      <DependentUpon>UpdateMakeupBrand.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="View\Admin\ViewCustomer.aspx.cs">
+      <DependentUpon>ViewCustomer.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\Admin\ViewCustomer.aspx.designer.cs">
+      <DependentUpon>ViewCustomer.aspx</DependentUpon>
     </Compile>
     <Compile Include="View\Customer\OrderMakeup.aspx.cs">
       <DependentUpon>OrderMakeup.aspx</DependentUpon>
@@ -227,7 +269,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Report\" />
-    <Folder Include="View\Admin\" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
