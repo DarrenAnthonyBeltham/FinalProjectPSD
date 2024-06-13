@@ -11,10 +11,14 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <asp:Button ID="orderBtn" runat="server" Text="Order" OnClick="orderBtn_click"/>
+            <asp:Button ID="orderBtn" runat="server" Text="OrderMakeup" OnClick="orderBtn_click"/>
             <asp:Button ID="historyBtn" runat="server" Text="History" OnClick="historyBtn_click" />
             <asp:Button ID="profileBtn" runat="server" Text="Profile" OnClick="profileBtn_click" />
             <asp:Button ID="logoutBtn" runat="server" Text="LogOut" OnClick="logoutBtn_click" />
+            <asp:Button ID="HomeBtn" runat="server" Text="Home" OnClick="HomeBtn_Click"/>
+            <asp:Button ID="ManageBtn" runat="server" Text="Manage Makeup" OnClick="ManageBtn_Click"/>
+            <asp:Button ID="OrderQBtn" runat="server" Text="OrderQueue" OnClick="OrderQBtn_Click"/>
+            <asp:Button ID="ReportBtn" runat="server" Text="Transaction Report" OnClick="ReportBtn_Click"/>
         </div>
         <div>
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">

@@ -31,6 +31,11 @@ namespace FinalProjectPSD.Repository
             return (from x in db.Users where x.Username.Equals(username) && x.UserPassword.Equals(password) select x).FirstOrDefault();
         }
 
+        public User GetUserByID(int id)
+        {
+            return (from u in db.Users where u.UserID == id select u).FirstOrDefault();
+        }
+
         public User getUser(string username)
         {
             return (from u in db.Users where u.Username == username select u).FirstOrDefault();

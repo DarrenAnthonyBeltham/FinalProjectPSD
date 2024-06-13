@@ -32,6 +32,11 @@ namespace FinalProjectPSD.Handler
             return UserRepo.getUser(username);
         }
 
+        public User userbyid(int id)
+        {
+            return UserRepo.GetUserByID(id);
+        }
+
         public int generateID()
         {
             return UserRepo.GenerateId();

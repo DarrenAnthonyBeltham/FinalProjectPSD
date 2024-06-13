@@ -13,6 +13,10 @@ namespace FinalProjectPSD.Controller
     {
         private UserHandler handler = new UserHandler();
 
+        public User Checkuserbyid(int id)
+        {
+            return handler.userbyid(id);
+        }
         public String CheckUsername(string username)
         {
             if (username.Length == 0)
@@ -109,20 +113,21 @@ namespace FinalProjectPSD.Controller
             }
             else
             {
-                User current = new User();
-                current = handler.userbyusername(username);
+                //pembuatan cookie dan session
+                User current = handler.userbyusername(username);
 
                 if (cb.Checked)
                 {
-                    HttpCookie cookie = new HttpCookie("userdata");
-                    cookie.Values["username"] = username;
-                    cookie.Values["password"] = password;
+                    HttpCookie cookie = new HttpCookie("user_cookie");
+                    cookie.Value = current.UserID.ToString();
                     cookie.Expires = DateTime.Now.AddDays(1);
                     HttpContext.Current.Response.Cookies.Add(cookie);
                 }
-                HttpContext.Current.Session["UserID"] = current.UserID;
-                HttpContext.Current.Session["UserRole"] = current.UserRole;
-                HttpContext.Current.Session["Username"] = current.Username;
+                HttpContext.Current.Session["user"] = current;
+                //HttpContext.Current.Session["UserID"] = current.UserID;
+                //HttpContext.Current.Session["UserRole"] = current.UserRole;
+                //HttpContext.Current.Session["Username"] = current.Username;
+
             }
             return "";
         }
