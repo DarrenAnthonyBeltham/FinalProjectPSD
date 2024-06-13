@@ -1,4 +1,5 @@
 ﻿using FinalProjectPSD.Controller;
+using FinalProjectPSD.Handler;
 using FinalProjectPSD.Model;
 using System;
 using System.Collections.Generic;
@@ -11,8 +12,10 @@ namespace FinalProjectPSD.View.Admin
 {
     public partial class InsertMakeupBrand : System.Web.UI.Page
     {
+        string role = "";
         MakeupBrandController mbController = new MakeupBrandController();
         UserController uc = new UserController();
+        UserHandler userHandler = new UserHandler();
         protected void Page_Load(object sender, EventArgs e)
         {
             if (Session["user"] == null && Request.Cookies["user_cookie"] == null)
@@ -22,16 +25,24 @@ namespace FinalProjectPSD.View.Admin
             else
             {
                 User user = new User();
+
                 if (Session["user"] == null)
                 {
                     int userId = Convert.ToInt32(Request.Cookies["user_cookie"].Value);
-                    user = uc.GetUserbyID(userId);
+                    user = userHandler.userbyid(userId);
                     Session["user"] = user;
                 }
+                // Kondisi saat login, tapi tidak ada cookie
                 else
                 {
                     user = (User)Session["user"];
                 }
+                role = user.UserRole;
+            }
+
+            if (role.Equals("customer"))
+            {
+                Response.Redirect("~/View/HomePage.aspx");
             }
         }
 

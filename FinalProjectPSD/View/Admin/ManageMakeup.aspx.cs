@@ -1,4 +1,5 @@
 ﻿using FinalProjectPSD.Controller;
+using FinalProjectPSD.Handler;
 using FinalProjectPSD.Model;
 using System;
 using System.Collections.Generic;
@@ -18,9 +19,35 @@ namespace FinalProjectPSD.View.Admin
         UserController uc = new UserController();
         MakeupBrandController mbController = new MakeupBrandController();
         MakeupController makeupController = new MakeupController();
+        UserHandler userHandler = new UserHandler();
         protected void Page_Load(object sender, EventArgs e)
         {
-            //Session nya di sini :)
+            if (Session["user"] == null && Request.Cookies["user_cookie"] == null)
+            {
+                Response.Redirect("~/View/Guest/LoginPage.aspx");
+            }
+            else
+            {
+                User user = new User();
+
+                if (Session["user"] == null)
+                {
+                    int userId = Convert.ToInt32(Request.Cookies["user_cookie"].Value);
+                    user = userHandler.userbyid(userId);
+                    Session["user"] = user;
+                }
+                // Kondisi saat login, tapi tidak ada cookie
+                else
+                {
+                    user = (User)Session["user"];
+                }
+                role = user.UserRole;
+            }
+
+            if (role.Equals("customer"))
+            {
+                Response.Redirect("~/View/HomePage.aspx");
+            }
 
             makeupList = makeupController.showMakeupList();
             makeupBrandList = mbController.getAllMakeupBrandDescending();
