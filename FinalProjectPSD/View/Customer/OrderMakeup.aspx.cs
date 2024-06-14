@@ -17,9 +17,6 @@ namespace FinalProjectPSD.View.Customer
 
         public List<Makeup> makeups = null;
         public List<Cart> carts = null;
-        UserRepository repo= new UserRepository();
-        MakeupRepository makeupRepo = new MakeupRepository();
-        CartRepository cartRepo = new CartRepository();
         CartController controller = new CartController();
         MakeupController makeupController = new MakeupController();
         string x = "";
