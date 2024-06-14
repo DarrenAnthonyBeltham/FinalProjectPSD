@@ -1,80 +1,123 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\user\\Documents\\Github\\FinalProjectPSD\\",
+  "WorkspaceRootPath": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|D:\\user\\Documents\\Github\\FinalProjectPSD\\finalprojectpsd\\view\\customer\\ordermakeup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\view\\customer\\ordermakeup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|d:\\user\\documents\\github\\finalprojectpsd\\finalprojectpsd\\view\\admin\\handletransaction.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\view\\admin\\handletransaction.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|d:\\user\\documents\\github\\finalprojectpsd\\finalprojectpsd\\controller\\transactionheadercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\controller\\transactionheadercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|D:\\user\\Documents\\Github\\FinalProjectPSD\\finalprojectpsd\\controller\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\controller\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|d:\\user\\documents\\github\\finalprojectpsd\\finalprojectpsd\\view\\admin\\handletransaction.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\view\\admin\\handletransaction.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|D:\\user\\Documents\\Github\\FinalProjectPSD\\finalprojectpsd\\controller\\makeupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\finalprojectpsd\\controller\\makeupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\controller\\makeupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|d:\\user\\documents\\github\\finalprojectpsd\\finalprojectpsd\\master\\customernavbar.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\master\\customernavbar.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\finalprojectpsd\\handler\\makeuphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\handler\\makeuphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|D:\\user\\Documents\\Github\\FinalProjectPSD\\finalprojectpsd\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\finalprojectpsd\\repository\\makeuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\repository\\makeuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|d:\\user\\documents\\github\\finalprojectpsd\\finalprojectpsd\\view\\guest\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_REXIL_DOCUMENTS_GITHUB_FINALPROJECTPSD_FINALPROJECTPSD_APP_DATA_MAKEUPZZ.MDF/True/SqlTable/dbo.Makeups.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|c:\\users\\rexil\\documents\\github\\finalprojectpsd\\finalprojectpsd\\view\\transactionhistory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\view\\transactionhistory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|c:\\users\\rexil\\documents\\github\\finalprojectpsd\\finalprojectpsd\\view\\transactiondetailpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\view\\transactiondetailpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|c:\\users\\rexil\\documents\\github\\finalprojectpsd\\finalprojectpsd\\view\\transactionhistory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\view\\transactionhistory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\finalprojectpsd\\view\\admin\\handletransaction.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\view\\admin\\handletransaction.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|c:\\users\\rexil\\documents\\github\\finalprojectpsd\\finalprojectpsd\\master\\customernavbar.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\master\\customernavbar.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\finalprojectpsd\\controller\\transactionheadercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\controller\\transactionheadercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|c:\\users\\rexil\\documents\\github\\finalprojectpsd\\finalprojectpsd\\handler\\transactionheaderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\handler\\transactionheaderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\finalprojectpsd\\view\\guest\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\view\\guest\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|D:\\user\\Documents\\Github\\FinalProjectPSD\\finalprojectpsd\\view\\guest\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\view\\guest\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\finalprojectpsd\\master\\customernavbar.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\master\\customernavbar.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|D:\\user\\Documents\\Github\\FinalProjectPSD\\finalprojectpsd\\handler\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\handler\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|c:\\users\\rexil\\documents\\github\\finalprojectpsd\\finalprojectpsd\\view\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\view\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\finalprojectpsd\\view\\guest\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\view\\guest\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_REXIL_DOCUMENTS_GITHUB_FINALPROJECTPSD_FINALPROJECTPSD_APP_DATA_MAKEUPZZ.MDF/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|D:\\user\\Documents\\Github\\FinalProjectPSD\\finalprojectpsd\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|c:\\users\\rexil\\documents\\github\\finalprojectpsd\\finalprojectpsd\\view\\customer\\ordermakeup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\view\\customer\\ordermakeup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|c:\\users\\rexil\\documents\\github\\finalprojectpsd\\finalprojectpsd\\view\\transactiondetailpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\view\\transactiondetailpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|c:\\users\\rexil\\documents\\github\\finalprojectpsd\\finalprojectpsd\\controller\\transactiondetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\controller\\transactiondetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|c:\\users\\rexil\\documents\\github\\finalprojectpsd\\finalprojectpsd\\handler\\transactiondetailhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\handler\\transactiondetailhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|c:\\users\\rexil\\documents\\github\\finalprojectpsd\\finalprojectpsd\\view\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\view\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\finalprojectpsd\\view\\admin\\handletransaction.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\view\\admin\\handletransaction.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\finalprojectpsd\\controller\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\controller\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\finalprojectpsd\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\finalprojectpsd\\view\\guest\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\view\\guest\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\finalprojectpsd\\handler\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\handler\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\finalprojectpsd\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|D:\\user\\Documents\\Github\\FinalProjectPSD\\finalprojectpsd\\view\\guest\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\view\\guest\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|D:\\user\\Documents\\Github\\FinalProjectPSD\\finalprojectpsd\\handler\\makeuphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\handler\\makeuphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|D:\\user\\Documents\\Github\\FinalProjectPSD\\finalprojectpsd\\repository\\makeuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\repository\\makeuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|D:\\user\\Documents\\Github\\FinalProjectPSD\\finalprojectpsd\\view\\customer\\ordermakeup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\finalprojectpsd\\view\\customer\\ordermakeup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\view\\customer\\ordermakeup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|D:\\user\\Documents\\Github\\FinalProjectPSD\\finalprojectpsd\\handler\\carthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\finalprojectpsd\\handler\\carthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\handler\\carthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|D:\\user\\Documents\\Github\\FinalProjectPSD\\finalprojectpsd\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\finalprojectpsd\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDB30EA6-5109-4C0D-A416-C357CAF2C854}|FinalProjectPSD\\FinalProjectPSD.csproj|solutionrelative:finalprojectpsd\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -87,7 +130,8 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__USER_DOCUMENTS_GITHUB_FINALPROJECTPSD_FINALPROJECTPSD_APP_DATA_MAKEUPZZ.MDF/True/SqlTable/dbo.Carts.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\View\\Admin\\AdminHome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\View\\Admin\\AdminHome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FinalProjectPSD\\View\\Admin\\AdminHome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -97,15 +141,159 @@
       "DocumentGroups": [
         {
           "DockedHeight": 175,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 16,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "dbo.Makeups [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_REXIL_DOCUMENTS_GITHUB_FINALPROJECTPSD_FINALPROJECTPSD_APP_DATA_MAKEUPZZ.MDF/True/SqlTable/dbo.Makeups.sql",
+              "ToolTip": "dbo.Makeups [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-14T08:11:30.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomePage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\View\\HomePage.aspx.cs",
+              "RelativeDocumentMoniker": "FinalProjectPSD\\View\\HomePage.aspx.cs",
+              "ToolTip": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\View\\HomePage.aspx.cs",
+              "RelativeToolTip": "FinalProjectPSD\\View\\HomePage.aspx.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T07:45:20.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionDetailPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\View\\TransactionDetailPage.aspx.cs",
+              "RelativeDocumentMoniker": "FinalProjectPSD\\View\\TransactionDetailPage.aspx.cs",
+              "ToolTip": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\View\\TransactionDetailPage.aspx.cs",
+              "RelativeToolTip": "FinalProjectPSD\\View\\TransactionDetailPage.aspx.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAawA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T07:20:55.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TransactionDetailPage.aspx",
+              "DocumentMoniker": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\View\\TransactionDetailPage.aspx",
+              "RelativeDocumentMoniker": "FinalProjectPSD\\View\\TransactionDetailPage.aspx",
+              "ToolTip": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\View\\TransactionDetailPage.aspx",
+              "RelativeToolTip": "FinalProjectPSD\\View\\TransactionDetailPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-14T07:19:22.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TransactionDetailController.cs",
+              "DocumentMoniker": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Controller\\TransactionDetailController.cs",
+              "RelativeDocumentMoniker": "FinalProjectPSD\\Controller\\TransactionDetailController.cs",
+              "ToolTip": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Controller\\TransactionDetailController.cs",
+              "RelativeToolTip": "FinalProjectPSD\\Controller\\TransactionDetailController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T07:18:41.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TransactionDetailHandler.cs",
+              "DocumentMoniker": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Handler\\TransactionDetailHandler.cs",
+              "RelativeDocumentMoniker": "FinalProjectPSD\\Handler\\TransactionDetailHandler.cs",
+              "ToolTip": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Handler\\TransactionDetailHandler.cs",
+              "RelativeToolTip": "FinalProjectPSD\\Handler\\TransactionDetailHandler.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvwsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T07:18:29.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomePage.aspx",
+              "DocumentMoniker": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\View\\HomePage.aspx",
+              "RelativeDocumentMoniker": "FinalProjectPSD\\View\\HomePage.aspx",
+              "ToolTip": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\View\\HomePage.aspx",
+              "RelativeToolTip": "FinalProjectPSD\\View\\HomePage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-14T07:17:40.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerNavbar.Master.cs",
+              "DocumentMoniker": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Master\\CustomerNavbar.Master.cs",
+              "RelativeDocumentMoniker": "FinalProjectPSD\\Master\\CustomerNavbar.Master.cs",
+              "ToolTip": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Master\\CustomerNavbar.Master.cs",
+              "RelativeToolTip": "FinalProjectPSD\\Master\\CustomerNavbar.Master.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T07:13:16.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransactionHistory.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\View\\TransactionHistory.aspx.cs",
+              "RelativeDocumentMoniker": "FinalProjectPSD\\View\\TransactionHistory.aspx.cs",
+              "ToolTip": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\View\\TransactionHistory.aspx.cs",
+              "RelativeToolTip": "FinalProjectPSD\\View\\TransactionHistory.aspx.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T07:08:23.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TransactionHeaderHandler.cs",
+              "DocumentMoniker": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Handler\\TransactionHeaderHandler.cs",
+              "RelativeDocumentMoniker": "FinalProjectPSD\\Handler\\TransactionHeaderHandler.cs",
+              "ToolTip": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Handler\\TransactionHeaderHandler.cs",
+              "RelativeToolTip": "FinalProjectPSD\\Handler\\TransactionHeaderHandler.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA7wBYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T07:05:31.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransactionHistory.aspx",
+              "DocumentMoniker": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\View\\TransactionHistory.aspx",
+              "RelativeDocumentMoniker": "FinalProjectPSD\\View\\TransactionHistory.aspx",
+              "ToolTip": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\View\\TransactionHistory.aspx",
+              "RelativeToolTip": "FinalProjectPSD\\View\\TransactionHistory.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-14T07:03:58.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "HandleTransaction.aspx",
-              "DocumentMoniker": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\View\\Admin\\HandleTransaction.aspx",
+              "DocumentMoniker": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\View\\Admin\\HandleTransaction.aspx",
               "RelativeDocumentMoniker": "FinalProjectPSD\\View\\Admin\\HandleTransaction.aspx",
-              "ToolTip": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\View\\Admin\\HandleTransaction.aspx",
+              "ToolTip": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\View\\Admin\\HandleTransaction.aspx",
               "RelativeToolTip": "FinalProjectPSD\\View\\Admin\\HandleTransaction.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -114,63 +302,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "TransactionHeaderController.cs",
-              "DocumentMoniker": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Controller\\TransactionHeaderController.cs",
+              "DocumentMoniker": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Controller\\TransactionHeaderController.cs",
               "RelativeDocumentMoniker": "FinalProjectPSD\\Controller\\TransactionHeaderController.cs",
-              "ToolTip": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Controller\\TransactionHeaderController.cs",
+              "ToolTip": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Controller\\TransactionHeaderController.cs",
               "RelativeToolTip": "FinalProjectPSD\\Controller\\TransactionHeaderController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-14T03:08:19.279Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 21,
               "Title": "HandleTransaction.aspx.cs",
-              "DocumentMoniker": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\View\\Admin\\HandleTransaction.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\View\\Admin\\HandleTransaction.aspx.cs",
               "RelativeDocumentMoniker": "FinalProjectPSD\\View\\Admin\\HandleTransaction.aspx.cs",
-              "ToolTip": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\View\\Admin\\HandleTransaction.aspx.cs",
+              "ToolTip": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\View\\Admin\\HandleTransaction.aspx.cs",
               "RelativeToolTip": "FinalProjectPSD\\View\\Admin\\HandleTransaction.aspx.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAJAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAWwB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-14T03:07:20.62Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 16,
               "Title": "OrderMakeup.aspx.cs",
-              "DocumentMoniker": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\View\\Customer\\OrderMakeup.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\View\\Customer\\OrderMakeup.aspx.cs",
               "RelativeDocumentMoniker": "FinalProjectPSD\\View\\Customer\\OrderMakeup.aspx.cs",
-              "ToolTip": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\View\\Customer\\OrderMakeup.aspx.cs",
+              "ToolTip": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\View\\Customer\\OrderMakeup.aspx.cs",
               "RelativeToolTip": "FinalProjectPSD\\View\\Customer\\OrderMakeup.aspx.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAQwCMAAAAAAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwCMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T12:54:43.227Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "MakeupController.cs",
-              "DocumentMoniker": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Controller\\MakeupController.cs",
+              "DocumentMoniker": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Controller\\MakeupController.cs",
               "RelativeDocumentMoniker": "FinalProjectPSD\\Controller\\MakeupController.cs",
-              "ToolTip": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Controller\\MakeupController.cs",
+              "ToolTip": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Controller\\MakeupController.cs",
               "RelativeToolTip": "FinalProjectPSD\\Controller\\MakeupController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T14:59:37.625Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 22,
               "Title": "CartController.cs",
-              "DocumentMoniker": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Controller\\CartController.cs",
+              "DocumentMoniker": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Controller\\CartController.cs",
               "RelativeDocumentMoniker": "FinalProjectPSD\\Controller\\CartController.cs",
-              "ToolTip": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Controller\\CartController.cs",
+              "ToolTip": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Controller\\CartController.cs",
               "RelativeToolTip": "FinalProjectPSD\\Controller\\CartController.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAA1wBEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -179,11 +367,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "CustomerNavbar.Master",
-              "DocumentMoniker": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Master\\CustomerNavbar.Master",
+              "DocumentMoniker": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Master\\CustomerNavbar.Master",
               "RelativeDocumentMoniker": "FinalProjectPSD\\Master\\CustomerNavbar.Master",
-              "ToolTip": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Master\\CustomerNavbar.Master",
+              "ToolTip": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Master\\CustomerNavbar.Master",
               "RelativeToolTip": "FinalProjectPSD\\Master\\CustomerNavbar.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -192,23 +380,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 1,
               "Title": "MakeupHandler.cs",
-              "DocumentMoniker": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Handler\\MakeupHandler.cs",
+              "DocumentMoniker": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Handler\\MakeupHandler.cs",
               "RelativeDocumentMoniker": "FinalProjectPSD\\Handler\\MakeupHandler.cs",
-              "ToolTip": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Handler\\MakeupHandler.cs",
+              "ToolTip": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Handler\\MakeupHandler.cs",
               "RelativeToolTip": "FinalProjectPSD\\Handler\\MakeupHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T14:59:24.581Z"
+              "WhenOpened": "2024-06-12T14:59:24.581Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 23,
               "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Controller\\UserController.cs",
+              "DocumentMoniker": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Controller\\UserController.cs",
               "RelativeDocumentMoniker": "FinalProjectPSD\\Controller\\UserController.cs",
-              "ToolTip": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Controller\\UserController.cs",
+              "ToolTip": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Controller\\UserController.cs",
               "RelativeToolTip": "FinalProjectPSD\\Controller\\UserController.cs",
               "ViewState": "AQIAAGgAAAAAAAAAAAAAwHQAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -217,77 +406,84 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 26,
               "Title": "UserRepository.cs",
-              "DocumentMoniker": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Repository\\UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Repository\\UserRepository.cs",
               "RelativeDocumentMoniker": "FinalProjectPSD\\Repository\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Repository\\UserRepository.cs*",
+              "ToolTip": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "FinalProjectPSD\\Repository\\UserRepository.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAYwCMAAABXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T10:23:13.59Z"
+              "WhenOpened": "2024-06-12T10:23:13.59Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 2,
               "Title": "MakeupRepository.cs",
-              "DocumentMoniker": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Repository\\MakeupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Repository\\MakeupRepository.cs",
               "RelativeDocumentMoniker": "FinalProjectPSD\\Repository\\MakeupRepository.cs",
-              "ToolTip": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Repository\\MakeupRepository.cs",
+              "ToolTip": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Repository\\MakeupRepository.cs",
               "RelativeToolTip": "FinalProjectPSD\\Repository\\MakeupRepository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACQAAAAJAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwBIAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T14:56:28.879Z"
+              "WhenOpened": "2024-06-12T14:56:28.879Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "LoginPage.aspx.cs",
-              "DocumentMoniker": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\View\\Guest\\LoginPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\View\\Guest\\LoginPage.aspx.cs",
               "RelativeDocumentMoniker": "FinalProjectPSD\\View\\Guest\\LoginPage.aspx.cs",
-              "ToolTip": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\View\\Guest\\LoginPage.aspx.cs",
+              "ToolTip": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\View\\Guest\\LoginPage.aspx.cs",
               "RelativeToolTip": "FinalProjectPSD\\View\\Guest\\LoginPage.aspx.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAAAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwB0AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T14:25:22.3Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 27,
               "Title": "OrderMakeup.aspx",
-              "DocumentMoniker": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\View\\Customer\\OrderMakeup.aspx",
+              "DocumentMoniker": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\View\\Customer\\OrderMakeup.aspx",
               "RelativeDocumentMoniker": "FinalProjectPSD\\View\\Customer\\OrderMakeup.aspx",
-              "ToolTip": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\View\\Customer\\OrderMakeup.aspx",
+              "ToolTip": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\View\\Customer\\OrderMakeup.aspx",
               "RelativeToolTip": "FinalProjectPSD\\View\\Customer\\OrderMakeup.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-12T12:54:35.288Z"
+              "WhenOpened": "2024-06-12T12:54:35.288Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "dbo.Users [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_REXIL_DOCUMENTS_GITHUB_FINALPROJECTPSD_FINALPROJECTPSD_APP_DATA_MAKEUPZZ.MDF/True/SqlTable/dbo.Users.sql",
               "ToolTip": "dbo.Users [Data]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-06-13T07:49:32.529Z"
+              "WhenOpened": "2024-06-13T07:49:32.529Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 33,
               "Title": "AdminHome.aspx",
               "DocumentMoniker": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\View\\Admin\\AdminHome.aspx",
+              "RelativeDocumentMoniker": "FinalProjectPSD\\View\\Admin\\AdminHome.aspx",
               "ToolTip": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\View\\Admin\\AdminHome.aspx",
+              "RelativeToolTip": "FinalProjectPSD\\View\\Admin\\AdminHome.aspx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-06-13T07:51:01.112Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 24,
               "Title": "RegisterPage.aspx.cs",
-              "DocumentMoniker": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\View\\Guest\\RegisterPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\View\\Guest\\RegisterPage.aspx.cs",
               "RelativeDocumentMoniker": "FinalProjectPSD\\View\\Guest\\RegisterPage.aspx.cs",
-              "ToolTip": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\View\\Guest\\RegisterPage.aspx.cs",
+              "ToolTip": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\View\\Guest\\RegisterPage.aspx.cs",
               "RelativeToolTip": "FinalProjectPSD\\View\\Guest\\RegisterPage.aspx.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -295,11 +491,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 28,
               "Title": "CartHandler.cs",
-              "DocumentMoniker": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Handler\\CartHandler.cs",
+              "DocumentMoniker": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Handler\\CartHandler.cs",
               "RelativeDocumentMoniker": "FinalProjectPSD\\Handler\\CartHandler.cs",
-              "ToolTip": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Handler\\CartHandler.cs",
+              "ToolTip": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Handler\\CartHandler.cs",
               "RelativeToolTip": "FinalProjectPSD\\Handler\\CartHandler.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -307,11 +503,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 25,
               "Title": "UserHandler.cs",
-              "DocumentMoniker": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Handler\\UserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Handler\\UserHandler.cs",
               "RelativeDocumentMoniker": "FinalProjectPSD\\Handler\\UserHandler.cs",
-              "ToolTip": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Handler\\UserHandler.cs",
+              "ToolTip": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Handler\\UserHandler.cs",
               "RelativeToolTip": "FinalProjectPSD\\Handler\\UserHandler.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAYwCQAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -319,11 +515,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 29,
               "Title": "CartRepository.cs",
-              "DocumentMoniker": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Repository\\CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Repository\\CartRepository.cs",
               "RelativeDocumentMoniker": "FinalProjectPSD\\Repository\\CartRepository.cs",
-              "ToolTip": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\Repository\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\Repository\\CartRepository.cs",
               "RelativeToolTip": "FinalProjectPSD\\Repository\\CartRepository.cs",
               "ViewState": "AQIAAB0AAAAAAAAAAAAwwDMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -331,19 +527,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "LoginPage.aspx",
-              "DocumentMoniker": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\View\\Guest\\LoginPage.aspx",
+              "DocumentMoniker": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\View\\Guest\\LoginPage.aspx",
               "RelativeDocumentMoniker": "FinalProjectPSD\\View\\Guest\\LoginPage.aspx",
-              "ToolTip": "D:\\user\\Documents\\Github\\FinalProjectPSD\\FinalProjectPSD\\View\\Guest\\LoginPage.aspx",
+              "ToolTip": "C:\\Users\\rexil\\Documents\\GitHub\\FinalProjectPSD\\FinalProjectPSD\\View\\Guest\\LoginPage.aspx",
               "RelativeToolTip": "FinalProjectPSD\\View\\Guest\\LoginPage.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-12T15:39:31.31Z"
+              "WhenOpened": "2024-06-12T15:39:31.31Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 32,
               "Title": "dbo.Carts [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__USER_DOCUMENTS_GITHUB_FINALPROJECTPSD_FINALPROJECTPSD_APP_DATA_MAKEUPZZ.MDF/True/SqlTable/dbo.Carts.sql",
               "ToolTip": "dbo.Carts [Data]",
@@ -352,7 +549,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 31,
               "Title": "dbo.Makeups [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__USER_DOCUMENTS_GITHUB_FINALPROJECTPSD_FINALPROJECTPSD_APP_DATA_MAKEUPZZ.MDF/True/SqlTable/dbo.Makeups.sql",
               "ToolTip": "dbo.Makeups [Data]",
@@ -361,7 +558,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 30,
               "Title": "dbo.Users [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__USER_DOCUMENTS_GITHUB_FINALPROJECTPSD_FINALPROJECTPSD_APP_DATA_MAKEUPZZ.MDF/True/SqlTable/dbo.Users.sql",
               "ToolTip": "dbo.Users [Data]",

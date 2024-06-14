@@ -100,12 +100,15 @@
     <Content Include="View\Guest\RegisterPage.aspx" />
     <Content Include="View\HomePage.aspx" />
     <Content Include="View\ProfilePage.aspx" />
+    <Content Include="View\TransactionDetailPage.aspx" />
+    <Content Include="View\TransactionHistory.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controller\CartController.cs" />
     <Compile Include="Controller\MakeupBrandController.cs" />
     <Compile Include="Controller\MakeupController.cs" />
+    <Compile Include="Controller\TransactionDetailController.cs" />
     <Compile Include="Controller\TransactionHeaderController.cs" />
     <Compile Include="Controller\UserController.cs" />
     <Compile Include="Factory\CartFactory.cs" />
@@ -118,6 +121,7 @@
     <Compile Include="Handler\CartHandler.cs" />
     <Compile Include="Handler\MakeupBrandHandler.cs" />
     <Compile Include="Handler\MakeupHandler.cs" />
+    <Compile Include="Handler\TransactionDetailHandler.cs" />
     <Compile Include="Handler\TransactionHeaderHandler.cs" />
     <Compile Include="Handler\UserHandler.cs" />
     <Compile Include="Model\Cart.cs">
@@ -248,6 +252,20 @@
     </Compile>
     <Compile Include="View\ProfilePage.aspx.designer.cs">
       <DependentUpon>ProfilePage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="View\TransactionDetailPage.aspx.cs">
+      <DependentUpon>TransactionDetailPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\TransactionDetailPage.aspx.designer.cs">
+      <DependentUpon>TransactionDetailPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="View\TransactionHistory.aspx.cs">
+      <DependentUpon>TransactionHistory.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\TransactionHistory.aspx.designer.cs">
+      <DependentUpon>TransactionHistory.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

@@ -13,8 +13,7 @@ namespace FinalProjectPSD.View
         public string role = "";
         protected void Page_Load(object sender, EventArgs e)
         {
-            User u = (User)Session["user"];
-            role = u.UserRole;
+
         }
     }
 }

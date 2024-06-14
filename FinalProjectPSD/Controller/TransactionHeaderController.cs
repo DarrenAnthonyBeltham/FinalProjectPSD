@@ -9,14 +9,19 @@ namespace FinalProjectPSD.Controller
 {
     public class TransactionHeaderController
     {
-        public static List<TransactionHeader> getAll()
+        TransactionHeaderHandler thhandler = new TransactionHeaderHandler();
+        public List<TransactionHeader> getAll()
         {
-            return TransactionHeaderHandler.getAll();
+            return thhandler.getAll();
+        }
+        public List<TransactionHeader> getByID(int id)
+        {
+            return thhandler.getByID(id);
         }
 
-        public static void update(int id)
+        public void update(int id)
         {
-            TransactionHeaderHandler.update(id);
+            thhandler.update(id);
         }
 
         public static String validateStatus(String status)

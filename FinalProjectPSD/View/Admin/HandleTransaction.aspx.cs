@@ -12,11 +12,12 @@ namespace FinalProjectPSD.View.Admin
     public partial class HandleTransaction : System.Web.UI.Page
     {
         public List<TransactionHeader> thList = new List<TransactionHeader>();
+        TransactionHeaderController thcontroller = new TransactionHeaderController();
         protected void Page_Load(object sender, EventArgs e)
         {
             if (!IsPostBack)
             {
-                thList = TransactionHeaderController.getAll();
+                thList = thcontroller.getAll();
                 GV.DataSource = thList;
                 GV.DataBind();
             }
@@ -33,7 +34,7 @@ namespace FinalProjectPSD.View.Admin
 
             if (Lbl_Error.Text.Equals(""))
             {
-                TransactionHeaderController.update(transactionId);
+                thcontroller.update(transactionId);
                 Response.Redirect("~/View/Admin/HandleTransaction.aspx");
             }
         }
